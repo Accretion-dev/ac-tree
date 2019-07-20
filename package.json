@@ -1,0 +1,26 @@
+{
+  "name": "ac-tree",
+  "version": "0.0.0",
+  "description": "A vue tree component. Side project of personal knowledge management system: Accretion.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd test; npm i; npm run test"
+  },
+  "keywords": [
+    "input",
+    "vue"
+  ],
+  "author": "Fmajor",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.12.0",
+    "pegjs": "^0.10.0",
+    "sass-loader": "^7.1.0"
+  },
+  "dependencies": {
+    "deep-equal": "^1.0.1",
+    "liquidmetal": "^1.3.0",
+    "lodash": "^4.17.15",
+    "luxon": "^1.12.1"
+  }
+}
